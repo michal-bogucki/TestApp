@@ -4,4 +4,5 @@ OkHttp
 Dageer
 Butterknife
 Picasso
+Gson
 Circleimageview
